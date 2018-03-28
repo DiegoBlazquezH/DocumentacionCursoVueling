@@ -1,4 +1,59 @@
 # Enlaces Curso
 
-* [Scrum, Javier Garzas](http://www.javiergarzas.com/2017/04/mas-sobre-el-origen-de-la-absurda-gestion-por-horas-y-como-ha-llegado-hasta-hoy.html)
-* 
+## Enlaces sobre ingeniería de software en general
+
+* [Información sobre Scrum, Javier Garzas](http://www.javiergarzas.com/2017/04/mas-sobre-el-origen-de-la-absurda-gestion-por-horas-y-como-ha-llegado-hasta-hoy.html)
+
+* [¿Por qué usamos puntos de historia en scrum?, Javier Garzas](http://www.javiergarzas.com/2015/06/puntos-historia-para-estimar-y-no-horas.html)
+
+* [Libro Clean Code](http://ricardogeek.com/docs/r_clean_code.pdf)
+
+* [Información sobre la aquitectura de N capas DDD](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex/)
+
+* [Arquitectura de 3 niveles (Presentación, Negocio, Acceso a datos) 1](https://stackoverflow.com/questions/21403542/external-communication-in-the-3-tier-architecture)
+
+* [Arquitectura de 3 niveles (Presentación, Negocio, Acceso a datos) 2](https://www.c-sharpcorner.com/UploadFile/dacca2/understand-3-tier-architecture-in-C-Sharp-net/)
+
+* [Arquitectura de 3 niveles (Presentación, Negocio, Acceso a datos) 3](https://www.codeproject.com/Articles/36847/Three-Layer-Architecture-in-C-NET)
+
+## Enlaces sobre C# y .Net
+
+* [Tutorial básico de C#](https://www.tutorialspoint.com/csharp/index.htm)
+
+* [101 ejemplos LinQ](https://code.msdn.microsoft.com/101-LINQ-Samples-3fb9811b)
+
+* [Tipos de datos en C#](https://docs.microsoft.com/es-es/dotnet/csharp/language-reference/keywords/built-in-types-table)
+
+* [Convenciones de nomenclatura en C# 1](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/general-naming-conventions)
+
+* [Convenciones de nomenclatura en C# 2](https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
+
+* [Convenciones de nomenclatura en C# 3](https://msdn.microsoft.com/en-us/library/xzf533w0(v=vs.71).aspx)
+
+* [Como modificar y/o actualizar app.config en runtime](http://yizeng.me/2013/08/31/update-appsettings-and-custom-configuration-sections-in-appconfig-at-runtime/)
+
+## Enlaces sobre otros lenguajes
+
+* [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Enlaces sobre virtulización y contenedores
+
+* [¿Qué es Vagrant?](http://www.conasa.es/blog/vagrant-la-herramienta-para-crear-entornos-de-desarrollo-reproducibles/)
+
+* [Puppet en 10 minutos](http://www.javiergarzas.com/2014/05/puppet-en-menos-de-10-min.html)
+
+* [Docker for dummies (ignorar el apartado de instalación, está desactualizado)](https://www.adictosaltrabajo.com/tutoriales/docker-for-dummies/)
+
+## Enlaces a herramientas
+
+* [Hub Docker](https://hub.docker.com/)
+
+* [NuGet](https://www.nuget.org/)
+
+* [Tutorial xUnit, cómo instalarlo y usarlo](http://xunit.github.io/docs/getting-started-desktop)
+
+* [Repositorios de Vagrant](https://app.vagrantup.com/boxes/search)
+
+## Enlaces externos al curso interesantes
+
+* [Scotch, paquete de Vagrant para instalar un servidor LAMP y hacer programación web offline](https://box.scotch.io/)
