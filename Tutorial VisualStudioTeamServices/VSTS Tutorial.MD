@@ -8,12 +8,14 @@ Esta herramienta es gratuita (hay funciones que son de pago) pero para poder uti
 #### Tutorial:
 
 Para acceder a VSTS podemos acceder desde la página de [visualstudio](www.visualstudio.com), accedemos con nuestra cuenta de microsoft y nos aparecera la home del VSTS.
+
 ![Boton loguin en visualstudio.com](loginvisualstudio.jpg)
 
 ![Creación de cuenta - dominio VSTS](createaccountvsts.jpg)
 Una vez aquí debemos crear una nueva cuenta de VSTS, que al final vendrian a ser como un dominio donde tendremos todos nuestos repositorios (que hablando en VSTS son los proyectos).
 Lo primero que nos pedira el nombre del subdominio (ya que el ominio principal seria visualstudio.com) y te despues nos pedirá si el formato de los repositorios son GIT o TFS.
 NOTA: esto es solo la configuración para el primer proyecto que se creará de forma automática, también tenemos más opciones de configuración en e boton de "Cambiar Detalles".
+
 ![Config del primer proyecto](gitortfsfirstproject.jpg)
 
 
