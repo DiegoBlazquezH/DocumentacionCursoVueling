@@ -32,6 +32,10 @@
 
 * [Como modificar y/o actualizar app.config en runtime](http://yizeng.me/2013/08/31/update-appsettings-and-custom-configuration-sections-in-appconfig-at-runtime/)
 
+* [Aplicación del patrón Abstract Factory en C#](https://www.c-sharpcorner.com/article/abstract-factory-design-pattern-in-c-sharp/)
+
+* [Tutorial framework de loggingLog4Net](https://stackify.com/log4net-guide-dotnet-logging/)
+
 ## Enlaces sobre otros lenguajes
 
 * [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
