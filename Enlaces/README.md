@@ -34,7 +34,7 @@
 
 * [Aplicación del patrón Abstract Factory en C#](https://www.c-sharpcorner.com/article/abstract-factory-design-pattern-in-c-sharp/)
 
-* [Tutorial framework de loggingLog4Net](https://stackify.com/log4net-guide-dotnet-logging/)
+* [Tutorial framework de logging Log4Net](https://stackify.com/log4net-guide-dotnet-logging/)
 
 ## Enlaces sobre otros lenguajes
 
