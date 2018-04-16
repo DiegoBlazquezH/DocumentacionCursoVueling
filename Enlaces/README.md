@@ -6,6 +6,8 @@
 
 * [¿Por qué usamos puntos de historia en scrum?, Javier Garzas](http://www.javiergarzas.com/2015/06/puntos-historia-para-estimar-y-no-horas.html)
 
+* [Explicando Scum a mi abuela](https://geeks.ms/jorge/2007/05/09/explicando-scrum-a-mi-abuela/)
+
 * [Libro Clean Code](http://ricardogeek.com/docs/r_clean_code.pdf)
 
 * [Información sobre la aquitectura de N capas DDD](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex/)
@@ -15,6 +17,14 @@
 * [Arquitectura de 3 niveles (Presentación, Negocio, Acceso a datos) 2](https://www.c-sharpcorner.com/UploadFile/dacca2/understand-3-tier-architecture-in-C-Sharp-net/)
 
 * [Arquitectura de 3 niveles (Presentación, Negocio, Acceso a datos) 3](https://www.codeproject.com/Articles/36847/Three-Layer-Architecture-in-C-NET)
+
+* [Especificación por ejemplo](https://softwaremaintainability.com/2017/11/29/specification-by-example-an-introduction/)
+
+* [Diferencia entre Mocks y Stubs](https://itblogsogeti.com/2015/03/26/desarrollo-pruebas-unitarias-trinitario-gomez-sogeti/)
+
+* [Patrones de diseño](http://www.blackwasp.co.uk/gofpatterns.aspx)
+
+* [Método Kanban, qué es](http://www.javiergarzas.com/2011/11/kanban.html)
 
 ## Enlaces sobre C# y .Net
 
@@ -36,9 +46,23 @@
 
 * [Tutorial framework de logging Log4Net](https://stackify.com/log4net-guide-dotnet-logging/)
 
+* [.Net Core vs .Net Framework](https://docs.microsoft.com/es-es/dotnet/standard/choosing-core-framework-server)
+
+* [ASP.Net Core en Ubuntu 16.04](http://www.programmingapps.net/2017/01/net-core-instalar-y-configurar-asp-net-core-bajo-ubuntu-16-04/)
+
+* [Log4Net con el Adapter Pattern](https://www.codeproject.com/Articles/1185716/Application-Design-A-Bad-Day-With-Adapter-Pattern)
+
+* [Crear un proyecto SQL en VS](https://www.c-sharpcorner.com/article/create-sql-server-database-project-with-visual-studio/)
+
+* [Paquetes para .Net con NuGet](https://help.sonatype.com/repomanager3/.net-package-repositories-with-nuget)
+
 ## Enlaces sobre otros lenguajes
 
 * [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* [Gherkin 1](https://josepablosarco.wordpress.com/2015/03/11/lenguaje-gherkin/)
+
+* [Buenas prácticas de Gherkin](http://www.javiergarzas.com/2016/05/gherkin-10-buenas-practicas-cuenta-la-hora-escribir-features-parte-1.html)
 
 ## Enlaces sobre virtulización y contenedores
 
@@ -59,6 +83,12 @@
 * [Tutorial xUnit, cómo instalarlo y usarlo](http://xunit.github.io/docs/getting-started-desktop)
 
 * [Repositorios de Vagrant](https://app.vagrantup.com/boxes/search)
+
+* [Specflow](http://specflow.org/)
+
+* [Nuget Server & Nexus Sonatype en Linux](https://help.sonatype.com/repomanager3/.net-package-repositories-with-nuget)
+
+* [Chocolatey, package manager para Windows](https://chocolatey.org/)
 
 ## Enlaces externos al curso interesantes
 

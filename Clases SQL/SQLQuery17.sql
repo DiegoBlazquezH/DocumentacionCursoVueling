@@ -1,0 +1,4 @@
+-- LLAMAR A UNA VISTA.
+USE TutorialDB
+SELECT * FROM vart;
+
