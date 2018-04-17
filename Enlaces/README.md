@@ -26,6 +26,10 @@
 
 * [Método Kanban, qué es](http://www.javiergarzas.com/2011/11/kanban.html)
 
+* [Patrón Builder](http://blogs.tedneward.com/patterns/Builder-CSharp/)
+
+* [Patrón Builder 2](https://www.codeproject.com/Articles/470476/Understanding-and-Implementing-Builder-Pattern-in)
+
 ## Enlaces sobre C# y .Net
 
 * [Tutorial básico de C#](https://www.tutorialspoint.com/csharp/index.htm)
