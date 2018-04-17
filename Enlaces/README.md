@@ -68,6 +68,8 @@
 
 * [Buenas prácticas de Gherkin](http://www.javiergarzas.com/2016/05/gherkin-10-buenas-practicas-cuenta-la-hora-escribir-features-parte-1.html)
 
+* [Callbacks en FlywayDB (scripts de pre y post versionado)](https://flywaydb.org/documentation/callbacks.html)
+
 ## Enlaces sobre virtulización y contenedores
 
 * [¿Qué es Vagrant?](http://www.conasa.es/blog/vagrant-la-herramienta-para-crear-entornos-de-desarrollo-reproducibles/)
