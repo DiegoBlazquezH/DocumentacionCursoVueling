@@ -60,6 +60,10 @@
 
 * [Paquetes para .Net con NuGet](https://help.sonatype.com/repomanager3/.net-package-repositories-with-nuget)
 
+* [Configurar tests unitarios](https://msdn.microsoft.com/en-us/library/jj635153.aspx)
+
+* [Configurar tests con ejecución en paralelo](https://blogs.msdn.microsoft.com/devops/2016/10/10/parallel-test-execution/)
+
 ## Enlaces sobre otros lenguajes
 
 * [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
