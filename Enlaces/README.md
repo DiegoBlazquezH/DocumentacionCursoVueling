@@ -102,6 +102,8 @@
 
 * [Chocolatey, package manager para Windows](https://chocolatey.org/)
 
+* [SQL Server en Linux](https://docs.microsoft.com/es-es/sql/linux/sql-server-linux-setup)
+
 ## Enlaces externos al curso interesantes
 
 * [Scotch, paquete de Vagrant para instalar un servidor LAMP y hacer programación web offline](https://box.scotch.io/)
