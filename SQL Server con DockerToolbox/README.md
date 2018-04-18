@@ -4,9 +4,13 @@ https://github.com/crops/docker-win-mac-docs/wiki/Windows-Instructions-(Docker-T
 
 Vamos a crear un contenedor Docker con SQL Server y Linux como Sistema Operativo de fondo. Para que SQL Server funcione correctamente, primero tenemos que hacer que la máquina de Docker utilice más memoria Ram, memoria en disco y núcleos.
 
-1. Eliminamos la máquina de docker predeterminada
+1. Eliminamos la máquina de docker predeterminada:
 	```
 	docker-machine rm default
+	```
+	Si da un error "Cannot unregister the machine 'default' while it is locked", ejecutar:
+	```
+	docker-machine stop
 	```
 
 2.  Creamos una nueva máquina predeterminada con los nuevos parámetros deseados (2 núcleos, 4gb de ram, 50gb de memoria)
