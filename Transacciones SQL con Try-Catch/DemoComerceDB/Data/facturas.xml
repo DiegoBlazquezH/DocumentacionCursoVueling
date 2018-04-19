@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Facturas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Factura>
+    <Id_Factura></Id_Factura>
+    <Id_Cliente>10</Id_Cliente>
+    <FechaFactura>2015-04-18T18:02:15.2355214+02:00</FechaFactura>
+    <Total>3000</Total>
+  </Factura>
+  <Factura>
+    <Id_Factura></Id_Factura>
+    <Id_Cliente>77</Id_Cliente>
+    <FechaFactura>2018-04-18T18:02:15.2355214+02:00</FechaFactura>
+    <Total>99000</Total>
+  </Factura>
+</Facturas>
