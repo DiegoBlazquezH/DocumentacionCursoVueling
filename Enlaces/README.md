@@ -64,6 +64,10 @@
 
 * [Configurar tests con ejecución en paralelo](https://blogs.msdn.microsoft.com/devops/2016/10/10/parallel-test-execution/)
 
+* [Clase abstracta implementando una interfaz](https://www.codeproject.com/Questions/1160950/Csharp-abstract-class-implementing-an-interface)
+
+* [Crear excepciones personalizadas](https://docs.microsoft.com/es-es/dotnet/standard/exceptions/how-to-create-user-defined-exceptions)
+
 ## Enlaces sobre otros lenguajes
 
 * [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -82,9 +86,11 @@
 
 * [Docker for dummies (ignorar el apartado de instalación, está desactualizado)](https://www.adictosaltrabajo.com/tutoriales/docker-for-dummies/)
 
-* [Tutorial Cómo instalar Vagrant](https://carlosazaustre.es/como-configurar-un-entorno-de-desarrollo-virtual-con-vagrant/)
+* [Tutorial Cómo instalar Vagrant](https://carlosazaustre.es/como-configurar-un-entorno-de-desarrollo-virtual-con-vagrant/)(
 
 * [XML: Diferencias entre DOM y SAX](http://www.hipertexto.info/documentos/dom.htm)
+
+* [Dockerfile, documentacion](https://www.conetix.com.au/blog/what-is-a-dockerfile)
 
 ## Enlaces a herramientas
 

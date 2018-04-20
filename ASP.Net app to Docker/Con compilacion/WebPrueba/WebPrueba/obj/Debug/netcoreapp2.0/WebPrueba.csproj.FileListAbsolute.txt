@@ -1,0 +1,22 @@
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.deps.json
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.json
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.dev.json
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.dll
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.pdb
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csprojResolveAssemblyReference.cache
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csproj.CoreCompileInputs.cache
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfoInputs.cache
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfo.cs
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.dll
+c:\users\diego.blazquez\source\repos\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.pdb
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.deps.json
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.json
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.runtimeconfig.dev.json
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\WebPrueba.pdb
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csprojResolveAssemblyReference.cache
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.csproj.CoreCompileInputs.cache
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfoInputs.cache
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.AssemblyInfo.cs
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.dll
+C:\Users\diego.blazquez\Desktop\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\WebPrueba.pdb
