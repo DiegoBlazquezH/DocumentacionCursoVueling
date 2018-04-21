@@ -11,7 +11,7 @@ Tened en cuenta que redis de por si no se isntala en un windows así que esto se
 	docker pull redis
 	```
 
-2. Hacemos un run de la imagen EXPONIENDO EL PUESTO POR DEFECTO DE REDIS 6379 y teniendo en cuenta que se va a ejecutar en la ip: 192.168.99.100
+2. Hacemos un run de la imagen EXPONIENDO EL PUERTO POR DEFECTO DE REDIS 6379 y teniendo en cuenta que se va a ejecutar en la ip: 192.168.99.100
 	```
 	docker run -p 6379:6379 -d redis
 	```
@@ -21,7 +21,7 @@ Tened en cuenta que redis de por si no se isntala en un windows así que esto se
 	docker ps (deberiamos ver el contenedor redis running)
 	```
 
-4. Descargamos en redis desktop (https://redisdesktop.com/download)
+4. Descargamos el redis desktop (https://redisdesktop.com/download)
 	```
     Creamos nueva conexión:
     Nombre: el que queramos
