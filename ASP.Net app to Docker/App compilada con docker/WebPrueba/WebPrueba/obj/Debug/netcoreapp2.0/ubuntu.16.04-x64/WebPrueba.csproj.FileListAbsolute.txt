@@ -1,0 +1,13 @@
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\libhostpolicy.so
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\libhostfxr.so
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.deps.json
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.runtimeconfig.json
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.runtimeconfig.dev.json
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.dll
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\bin\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.pdb
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.csproj.CoreCompileInputs.cache
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.AssemblyInfoInputs.cache
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.AssemblyInfo.cs
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.dll
+C:\Users\diego.blazquez\Desktop\DocumentacionCursoVueling\ASP.Net app to Docker\Con compilacion\WebPrueba\WebPrueba\obj\Debug\netcoreapp2.0\ubuntu.16.04-x64\WebPrueba.pdb
