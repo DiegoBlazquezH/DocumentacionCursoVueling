@@ -1,4 +1,6 @@
-# Obtener contenedor Docker con un sistema debian ALPINE y Redis
+# Obtener contenedor Docker con un sistema debian ALPINE y Redis - Para windows 10 mirar el PDF de Dani que adjunto en este repo
+
+
 
 https://hub.docker.com/_/redis/
 
