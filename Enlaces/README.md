@@ -30,6 +30,10 @@
 
 * [Patrón Builder 2](https://www.codeproject.com/Articles/470476/Understanding-and-Implementing-Builder-Pattern-in)
 
+* [¿Qué es GitFlow?](http://aprendegit.com/que-es-git-flow/)
+
+* [Arquitectura DDD](https://docs.microsoft.com/es-es/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
+
 ## Enlaces sobre C# y .Net
 
 * [Tutorial básico de C#](https://www.tutorialspoint.com/csharp/index.htm)
@@ -68,6 +72,42 @@
 
 * [Crear excepciones personalizadas](https://docs.microsoft.com/es-es/dotnet/standard/exceptions/how-to-create-user-defined-exceptions)
 
+## Web Api
+
+* [7 HTTP Methods](https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them)
+
+* [ASP.Net Web Api](https://www.asp.net/aspnet/samples/aspnet-web-api)
+
+* [Documentación de Web Api con Swagger](https://code.msdn.microsoft.com/Swagger-integration-in-da408b29)
+
+* [Ejemplo Swagger](http://petstore.swagger.io/)
+
+* [Async Web Api video](https://channel9.msdn.com/Blogs/channel9spain/Async-best-practices-por-Llus-Franco)
+
+* [Api versioning](https://www.c-sharpcorner.com/UploadFile/97fc7a/demystify-web-api-versioning/)
+
+* [Autofac & WebApi](http://autofaccn.readthedocs.io/en/latest/integration/webapi.html)
+
+* [Otro Autofac & WepApi](https://www.c-sharpcorner.com/article/using-autofac-with-web-api/)
+
+## Inyección de dependencias
+
+* [Dependecy Injection con Abstract Factory](https://www.codeproject.com/Articles/778264/Dependency-Injection-of-an-Abstract-Factor)
+
+* [Video, como implementar Autofac](https://www.youtube.com/watch?v=k8pVg6wXRk4)
+
+* [Explicación teórica de DI](https://thatcsharpguy.com/tv/inyeccion-dependencias/)
+
+* [Ejemplo DI, muy bueno para entenderlo](http://www.forcode.es/general/di-con-autofac-i-vistazo-rapido/)
+
+* [More DI](https://geekytheory.com/introduccion-al-inversion-of-control-container-ioc)
+
+* [Instance Scope](http://autofaccn.readthedocs.io/en/latest/lifetime/instance-scope.html)
+
+* [Ejemplo DI](https://msdn.microsoft.com/es-es/communitydocs/net-dev/csharp/inyeccion-de-dependencias)
+
+* [DI explicado en Genbeta](https://www.genbetadev.com/paradigmas-de-programacion/que-es-la-inyeccion-de-dependencias)
+
 ## Enlaces sobre otros lenguajes
 
 * [Sintaxis de lenguaje markdown (para readme.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -92,6 +132,12 @@
 
 * [Dockerfile, documentacion](https://www.conetix.com.au/blog/what-is-a-dockerfile)
 
+* [Introducción a Kubernetes](http://enmilocalfunciona.io/introduccion-a-kubernetes-i/)
+
+* [Introducción a Openshift](http://enmilocalfunciona.io/introduccion-a-openshift-creando-nuestro-laboratorio/)
+
+* [Compile ASP.Net Core App for Linux](https://stackoverflow.com/questions/41533592/how-to-compile-net-core-app-for-linux-on-a-windows-machine)
+
 ## Enlaces a herramientas
 
 * [Hub Docker](https://hub.docker.com/)
@@ -110,6 +156,18 @@
 
 * [SQL Server en Linux](https://docs.microsoft.com/es-es/sql/linux/sql-server-linux-setup)
 
+* [Visual Studio Team Service](https://docs.microsoft.com/en-us/vsts/git/create-new-repo?view=vsts)
+
 ## Enlaces externos al curso interesantes
 
 * [Scotch, paquete de Vagrant para instalar un servidor LAMP y hacer programación web offline](https://box.scotch.io/)
+
+### Cálculos con decimales
+
+* [Link 1](http://www.enrique7mc.com/2016/06/float-vs-double-vs-decimal/)
+
+* [Redondear al par](http://en.wikipedia.org/wiki/Rounding#Round_half_to_even)
+
+* [Double o decimal en C#?](https://geeks.ms/jorge/2017/09/08/moneda-con-money-double-o-decimal-en-net-y-sql-server/)
+
+* [Redondeando en .Net](https://begeeben.wordpress.com/2012/02/23/bankers-rounding-in-net/)
