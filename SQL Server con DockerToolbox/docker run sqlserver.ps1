@@ -50,7 +50,7 @@ else
     {
         Write-Host "El contenedor no existe, pero la imagen Sql ya existe, con ID" $idImage
         Write-Host "Creando contenedor Docker de Sql"
-        runRedis
+        runSqlServer
         $idContainer = getContainerId
         if($idContainer)
         {
